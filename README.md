@@ -1,4 +1,4 @@
-Laboratório Vagramt - Administração de Containers - DCA
+Laboratório Vagrant - Administração de Containers - DCA
 =============================
 
 Repositório para armazenar o Laboratório do curso de Administração de Containers - DCA do LAB Digicontrol

@@ -39,7 +39,7 @@ Para criar o laboratório é necessário fazer o `git clone` desse repositório 
 
 ```bash
 git clone https://github.com/pablowilliam/vagrant/
-cd 540/
+cd vagrant/
 vagrant up
 ```
 

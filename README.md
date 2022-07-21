@@ -1,4 +1,4 @@
-Laboratório 540 - Administração de Containers - DCA
+Laboratório Vagramt - Administração de Containers - DCA
 =============================
 
 Repositório para armazenar o Laboratório do curso de Administração de Containers - DCA do LAB Digicontrol
@@ -38,7 +38,7 @@ Criação do Laboratório
 Para criar o laboratório é necessário fazer o `git clone` desse repositório e, dentro da pasta baixada realizar a execução do `vagrant up`, conforme abaixo:
 
 ```bash
-git clone https://github.com/pablowilliam/540/
+git clone https://github.com/pablowilliam/vagrant/
 cd 540/
 vagrant up
 ```
